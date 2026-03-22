@@ -1,0 +1,6 @@
+{
+  "prompt": "A dimly lit old tailor's workshop, one headless mannequin in the foreground wearing a perfectly tailored charcoal suit — every seam exact, fabric smooth, shoulders precise. Behind it, three mannequins of clearly different proportions each wearing an identical copy of the same suit — one too narrow where the jacket pulls tightly across the chest, one too wide where the fabric sags and bunches at the waist, one with sleeves hanging far too long. Warm tungsten overhead light, worn wooden floorboards, atmospheric dust haze. Photorealistic medium format film photography. No text, no labels, no writing anywhere.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "One suit fits its original mannequin perfectly but fits all others poorly — like a model memorizing training data and failing on new inputs."
+}
